@@ -1,20 +1,38 @@
-,room-name,Adjusted Amount
-0,Butterfly,1622.69
-1,Earth Charter,2103.13
-2,Flower Child,2997.67
-3,Friends,2250.24
-4,Gigi's,2246.4
-5,Golden Gate,1892.02
-6,Hole in the Wall,1562.51
-7,Hula Hoop,1800.29
-8,Night Duty,2237.48
-9,Peace,1316.09
-10,Peacock,3882.41
-11,Playground,1744.33
-12,Poster,4312.7
-13,Rainbow Room,2904.68
-14,Redwood,2830.02
-15,Rose Garden,3496.73
-16,Skylight,2632.8
-17,Sunshine,2891.45
-18,Tea Garden,1956.28
+,room-name,Month,Amount
+0,Butterfly,1,1631.54
+1,Butterfly,2,1633.7
+2,Earth Charter,1,2111.98
+3,Earth Charter,2,1763.07
+4,Flower Child,1,3006.52
+5,Flower Child,2,2289.32
+6,Friends,1,2276.79
+7,Friends,2,2726.9
+8,Gigi's,1,2255.25
+9,Gigi's,2,2677.51
+10,Golden Gate,1,1900.87
+11,Golden Gate,2,2780.44
+12,Hole in the Wall,1,1589.06
+13,Hole in the Wall,2,1902.94
+14,Hula Hoop,1,177.51
+15,Night Duty,1,2246.33
+16,Night Duty,2,2286.64
+17,Peace,1,1324.94
+18,Peace,2,2339.64
+19,Peacock,1,3917.81
+20,Peacock,2,3169.68
+21,Playground,1,1753.18
+22,Playground,2,2178.01
+23,Poster,1,4356.95
+24,Poster,2,4022.44
+25,Rainbow Room,1,2913.53
+26,Rainbow Room,2,1894.21
+27,Redwood,1,2838.87
+28,Redwood,2,3630.14
+29,Rose Garden,1,3505.58
+30,Rose Garden,2,2357.75
+31,Skylight,1,2641.65
+32,Skylight,2,1247.42
+33,Sunshine,1,2900.3
+34,Sunshine,2,2726.71
+35,Tea Garden,1,1965.13
+36,Tea Garden,2,1985.1
