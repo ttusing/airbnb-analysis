@@ -11,7 +11,6 @@ scipy = "*"
 sqlalchemy = "*"
 pandas = "*"
 matplotlib = "*"
-hashlib = "*"
 
 [requires]
 python_version = "2.7"
